@@ -1,3 +1,3 @@
 # OpenAi-Modern-UI-UX-website
-# Fully responsive website
-# Made using React.js
+Fully responsive website
+Made using React.js
